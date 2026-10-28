@@ -9,3 +9,5 @@ This project is a website for a college department.
 - HTML
 - CSS
 - JavaScript
+## for new branch
+-these are few changes
